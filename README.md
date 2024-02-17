@@ -16,4 +16,4 @@ If you find any of my projects useful, consider giving them a star ⭐️ to sho
 I welcome contributions to any of my projects. If you have any ideas for improvements or bug fixes, feel free to open an issue or submit a pull request.
 
 Thank you for visiting my GitHub profile! Happy coding! 🚀
-## By the Way
+
