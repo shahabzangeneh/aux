@@ -1,6 +1,6 @@
 # Welcome to Mete0r's GitHub Profile! 👋
 
-Hello there! Welcome to my GitHub profile. Here you'll find a collection of projects and repositories that showcase my interests, skills, and contributions to the world of software development.
+Hi there! Welcome to my GitHub profile. Here you'll find a collection of projects and repositories that showcase my interests, skills, and contributions to the world of software development.
 
 ## About Me
 I'm passionate about Blockchain and Cryptocurrency. With a background in Web Development, I enjoy contributing to open-source projects.
